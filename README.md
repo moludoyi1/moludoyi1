@@ -6,7 +6,7 @@ I'm Samson Michael Oludoyi, I go by Michael
 
 ![Viewership](https://komarev.com/ghpvc/?username=moludoyi1)
 
-I was born in Nigeria and moved to United States when I was a little kid, I'm currently studying cybersecurity at Brigham Young University-Idaho
+I was born in Nigeria and moved to United States when I was a little kid, I'm currently studying cybersecurity at Brigham Young University-Idaho. I'm married to my beautiful wife Madyson and we reside in Rexburg ID.
 
 I am a passionate cybersecurity major driven by the goal of securing and strengthening networks. I find joy in every aspect of cybersecurity, from ethical hacking to defending systems and solving complex problems. My career aspiration is to work in the cybersecurity networking field, with a focus on both offensive and defensive strategies to ensure networks are as robust as possible.
 
